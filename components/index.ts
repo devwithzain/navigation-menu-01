@@ -1,0 +1,1 @@
+export { default as SideHome } from './Side-Menu/SideHome';
