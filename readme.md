@@ -1,4 +1,4 @@
-# Top Side Menu Component Created with
+# Navigation Menu Component 01 Created with
 
 - Next Js ✅
 - TypeScript ✅
