@@ -24,18 +24,18 @@ export const links = [
 export const footerLinks = [
     {
         title: "Facebook",
-        href: "/"
+        href: "https://www.facebook.com/"
     },
     {
         title: "LinkedIn",
-        href: "/"
+        href: "https://www.linkedin.com/"
     },
     {
         title: "Instagram",
-        href: "/"
+        href: "https://www.instagram.com/"
     },
     {
         title: "Twitter",
-        href: "/"
+        href: "https://www.twitter.com/"
     }
 ];
